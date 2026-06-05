@@ -47,7 +47,8 @@ export const portfolioData = {
       results: "Strengthened institutional communication, supported stakeholder engagement, and contributed to public-facing communication assets.",
       image: "/bank indonesia.jpeg",
       documentation: [
-        "/bank indonesia.jpeg"
+        "/hu.png",
+        "mockup envelope.png"
       ]
     },
     {
