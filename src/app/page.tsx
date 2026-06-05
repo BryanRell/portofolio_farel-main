@@ -77,8 +77,8 @@ export default function Home() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-gray-950 text-white text-[13.5px] font-medium hover:bg-black transition-all duration-200 shadow-md hover:shadow-lg active:scale-[0.98]"
           >
-            <Download className="w-3.5 h-3.5" />
-            Download CV
+            {/* <Download className="w-3.5 h-3.5" />
+            Download CV */}
           </a>
         </motion.div>
       </motion.section>
