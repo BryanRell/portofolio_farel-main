@@ -45,7 +45,10 @@ export const portfolioData = {
         "Contributed to official booklets, web design content, and branding initiatives."
       ],
       results: "Strengthened institutional communication, supported stakeholder engagement, and contributed to public-facing communication assets.",
-      image: "/bank indonesia.jpeg"
+      image: "/bank indonesia.jpeg",
+      documentation: [
+        "/bank indonesia.jpeg"
+      ]
     },
     {
       slug: "legal-administration",
@@ -63,10 +66,10 @@ export const portfolioData = {
         "Registered and organized more than 400 case files."
       ],
       results: "Supported orderly legal administration and improved documentation readiness for prosecution workflows.",
-      image: "/bi-sulsel.jpeg",
+      image: "/kejaksaan.jpeg",
       documentation: [
-        "/bank indonesia.jpeg",
-        "/bi-sulsel.jpeg"
+        "/kejaksaan.jpeg"
+    
       ]
     },
     {
